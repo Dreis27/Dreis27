@@ -29,6 +29,7 @@ I'm always open to collaborating on projects and innovative ideas, especially th
 <img align="left" alt="Erlang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/erlang/erlang-plain-wordmark.svg" />
 <br />
 
+<br><br />
 ---
 
 ### 📊 Stats
