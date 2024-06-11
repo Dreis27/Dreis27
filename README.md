@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! I'm currently a second-year Computer Science student with a keen interest in finance and the innovative ways technology can be leveraged to enhance financial applications. I'm particularly fascinated by quantitative development, exploring algorithms that can analyze financial markets.
+Welcome to my GitHub profile! I'm currently a second-year Computer Science student with a keen interest in finance, business, and the innovative ways technology can be leveraged to enhance these fields.
 
 I'm always open to collaborating on projects and innovative ideas, especially those that intersect technology and finance. Feel free to reach out if you want to connect!
 
