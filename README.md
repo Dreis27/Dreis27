@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm currently a second-year Computer Science student with a keen interest in finance, business, and the innovative ways technology can be leveraged to enhance these fields.
 
-I'm always open to collaborating on projects and innovative ideas, especially those that intersect technology and finance. Feel free to reach out if you want to connect!
+I'm always open to collaborating on projects and innovative ideas. Feel free to reach out if you want to connect!
 
 ---
 
